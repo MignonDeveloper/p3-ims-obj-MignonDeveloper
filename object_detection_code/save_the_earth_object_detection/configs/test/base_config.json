@@ -1,0 +1,16 @@
+{
+    "environment_parameters": {
+        "coco_test_json": "test.json"
+    },
+    "test_parameters": {
+        "batch_size": 32,
+        "seed": 42,
+        "num_workers": 4,
+        "score_threshold": 0.05
+    },
+    "network_env": {
+        "model": "EfficientDet5AP",
+        "test_augmentation": "BaseTestAugmentation",
+        "model_name": "EfficientDet5AP_ver1/EfficientDet5AP_ver1_19.pt"
+    }
+}
