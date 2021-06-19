@@ -3,7 +3,7 @@
 
 <br>
 
-The problem of classifying a given trash image by 12 classes
+The problem of segmentation & detection by a given trash image with 12 classes
 - `UNKNOWN`, `General trash`, `Paper`, `Paper pack`, `Metal`, `Glass`, `Plastic`, `Styrofoam`, `Plastic bag`, `Battery`, `Clothing`
 
 <br>
